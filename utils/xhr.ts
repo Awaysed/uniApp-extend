@@ -35,5 +35,4 @@ type Params = {
     url:string
     method?:"GET" | "POST" | "OPTIONS" | "HEAD" | "PUT" | "DELETE" | "TRACE" | "CONNECT"
     date:any
-    
 }
